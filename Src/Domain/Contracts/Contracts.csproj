@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>disable</Nullable>
+        <AssemblyName>ONLINE_SHOP.Domain.Contracts</AssemblyName>
+        <RootNamespace>ONLINE_SHOP.Domain.Contracts</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Framework\Framework.csproj" />
+       <ProjectReference Include="..\Events\Events.csproj" />
+    </ItemGroup>
+
+</Project>

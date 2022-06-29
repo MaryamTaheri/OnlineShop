@@ -1,0 +1,15 @@
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Consumers\obj\Debug\net6.0\Consumers.csproj.AssemblyReference.cache
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Consumers\obj\Debug\net6.0\Consumers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Consumers\obj\Debug\net6.0\Consumers.AssemblyInfoInputs.cache
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Consumers\obj\Debug\net6.0\Consumers.AssemblyInfo.cs
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Consumers\obj\Debug\net6.0\Consumers.csproj.CoreCompileInputs.cache
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Consumers\obj\Debug\net6.0\Consumers.csproj.CopyComplete
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Consumers\bin\Debug\net6.0\ONLINE_SHOP.Domain.Consumers.deps.json
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Consumers\bin\Debug\net6.0\ONLINE_SHOP.Domain.Consumers.dll
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Consumers\bin\Debug\net6.0\ONLINE_SHOP.Domain.Consumers.pdb
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Consumers\bin\Debug\net6.0\ONLINE_SHOP.Domain.Framework.dll
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Consumers\bin\Debug\net6.0\ONLINE_SHOP.Domain.Framework.pdb
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Consumers\obj\Debug\net6.0\ONLINE_SHOP.Domain.Consumers.dll
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Consumers\obj\Debug\net6.0\refint\ONLINE_SHOP.Domain.Consumers.dll
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Consumers\obj\Debug\net6.0\ONLINE_SHOP.Domain.Consumers.pdb
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Consumers\obj\Debug\net6.0\ref\ONLINE_SHOP.Domain.Consumers.dll

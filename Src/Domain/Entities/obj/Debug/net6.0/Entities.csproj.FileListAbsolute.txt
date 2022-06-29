@@ -1,0 +1,17 @@
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Entities\bin\Debug\net6.0\ONLINE_SHOP.Domain.Entities.deps.json
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Entities\bin\Debug\net6.0\ONLINE_SHOP.Domain.Entities.dll
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Entities\bin\Debug\net6.0\ONLINE_SHOP.Domain.Entities.pdb
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Entities\bin\Debug\net6.0\ONLINE_SHOP.Domain.Events.dll
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Entities\bin\Debug\net6.0\ONLINE_SHOP.Domain.Framework.dll
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Entities\bin\Debug\net6.0\ONLINE_SHOP.Domain.Framework.pdb
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Entities\bin\Debug\net6.0\ONLINE_SHOP.Domain.Events.pdb
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Entities\obj\Debug\net6.0\ONLINE_SHOP.Domain.Entities.dll
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Entities\obj\Debug\net6.0\refint\ONLINE_SHOP.Domain.Entities.dll
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Entities\obj\Debug\net6.0\ONLINE_SHOP.Domain.Entities.pdb
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\Entities\obj\Debug\net6.0\ref\ONLINE_SHOP.Domain.Entities.dll

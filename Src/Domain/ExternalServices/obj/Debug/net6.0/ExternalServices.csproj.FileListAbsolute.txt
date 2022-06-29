@@ -1,0 +1,17 @@
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\ExternalServices\obj\Debug\net6.0\ExternalServices.csproj.AssemblyReference.cache
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\ExternalServices\obj\Debug\net6.0\ExternalServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\ExternalServices\obj\Debug\net6.0\ExternalServices.AssemblyInfoInputs.cache
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\ExternalServices\obj\Debug\net6.0\ExternalServices.AssemblyInfo.cs
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\ExternalServices\obj\Debug\net6.0\ExternalServices.csproj.CoreCompileInputs.cache
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\ExternalServices\obj\Debug\net6.0\ExternalServices.csproj.CopyComplete
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\ExternalServices\bin\Debug\net6.0\ONLINE_SHOP.Domain.ExternalServices.deps.json
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\ExternalServices\bin\Debug\net6.0\ONLINE_SHOP.Domain.ExternalServices.dll
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\ExternalServices\bin\Debug\net6.0\ONLINE_SHOP.Domain.ExternalServices.pdb
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\ExternalServices\bin\Debug\net6.0\ONLINE_SHOP.Domain.Framework.dll
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\ExternalServices\bin\Debug\net6.0\ONLINE_SHOP.Infrastructure.Framework.dll
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\ExternalServices\bin\Debug\net6.0\ONLINE_SHOP.Infrastructure.Framework.pdb
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\ExternalServices\bin\Debug\net6.0\ONLINE_SHOP.Domain.Framework.pdb
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\ExternalServices\obj\Debug\net6.0\ONLINE_SHOP.Domain.ExternalServices.dll
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\ExternalServices\obj\Debug\net6.0\refint\ONLINE_SHOP.Domain.ExternalServices.dll
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\ExternalServices\obj\Debug\net6.0\ONLINE_SHOP.Domain.ExternalServices.pdb
+D:\Projects\New folder\ALBB_SpaceTravel\Src\Domain\ExternalServices\obj\Debug\net6.0\ref\ONLINE_SHOP.Domain.ExternalServices.dll

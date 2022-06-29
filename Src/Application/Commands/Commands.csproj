@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>disable</Nullable>
+        <AssemblyName>ONLINE_SHOP.Application.Commands</AssemblyName>
+        <RootNamespace>ONLINE_SHOP.Application.Commands</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\Domain\Application\Application.csproj" />
+      <ProjectReference Include="..\..\Domain\Models\Models.csproj" />
+    </ItemGroup>
+
+</Project>

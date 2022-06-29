@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>disable</Nullable>
+        <AssemblyName>ONLINE_SHOP.Infrastructure.Models</AssemblyName>
+        <RootNamespace>ONLINE_SHOP.Infrastructure.Models</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\Domain\Events\Events.csproj" />
+      <ProjectReference Include="..\..\Domain\ExternalServices\ExternalServices.csproj" />
+      <ProjectReference Include="..\..\Domain\Models\Models.csproj" />
+      <ProjectReference Include="..\..\Domain\Repositories\Repositories.csproj" />
+    </ItemGroup>
+
+</Project>
